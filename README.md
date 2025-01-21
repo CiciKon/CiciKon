@@ -10,6 +10,6 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently studying at University of Amsterdam.
 - 📫 How to reach me: www.linkedin.com/in/christina-konstantinidou
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I drink a lot of beers and I play bridge.
+<!--- - ⚡ Fun fact: I drink a lot of beers and I play bridge.-->
 <!--- 🌱 I’m currently learning Flutter and Python.-->
 
